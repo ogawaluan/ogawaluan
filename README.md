@@ -1,16 +1,13 @@
-### Hi there 👋
+# Luan Ogawa
 
-<!--
-**ogawaluan/ogawaluan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello guys! 👋
+I am a person who loves solving problems and I found a place where I can help, which is programming.
+At the moment I am just a student, focused on learning web development (Front-End currently).
 
-Here are some ideas to get you started:
+ <br/> Seeking to collaborate with Front-end projects using React, CSS / HTML / JS
+ <br/> If I can help you with anything that is disturbing you, you can call!
+ <br/> :computer: &nbsp; focus of my studies - my stack: ReactJS, Node.js, React Native & Typescript
+ <br/> 💬  &nbsp; About me: I like to study technologies, play games in general, watch anime / series
+ <br/> :email: &nbsp; To contact me: [![Linkedin Badge](https://www.linkedin.com/in/luan-ogawa/)
+[![Gmail Badge](mailto:ogawa.luan@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
