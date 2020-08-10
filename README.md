@@ -8,6 +8,6 @@ At the moment I am just a student, focused on learning web development (Front-En
  <br/> If I can help you with anything that is disturbing you, you can call!
  <br/> :computer: &nbsp; focus of my studies - my stack: ReactJS, Node.js, React Native & Typescript
  <br/> 💬  &nbsp; About me: I like to study technologies, play games in general, watch anime / series
- <br/> :email: &nbsp; To contact me: [![Linkedin Badge](https://www.linkedin.com/in/luan-ogawa/)
-[![Gmail Badge](mailto:ogawa.luan@gmail.com)
+ <br/> :email: &nbsp; To contact me: [![Linkedin Badge]](https://www.linkedin.com/in/luan-ogawa/)
+[![Gmail Badge]](mailto:ogawa.luan@gmail.com)
 
