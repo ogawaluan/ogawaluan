@@ -11,3 +11,4 @@ At the moment I am just a student, focused on learning web development (Front-En
  <br/> :email: &nbsp; To contact me: [![Linkedin Badge]](https://www.linkedin.com/in/luan-ogawa/)
 [![Gmail Badge]](mailto:ogawa.luan@gmail.com)
 
+[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
