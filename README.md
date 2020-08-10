@@ -9,6 +9,5 @@ At the moment I am just a student, focused on learning web development (Front-En
  <br/> :computer: &nbsp; focus of my studies - my stack: ReactJS, Node.js, React Native & Typescript
  <br/> 💬  &nbsp; About me: I like to study technologies, play games in general, watch anime / series
  <br/> :email: &nbsp; To contact me: [![Linkedin Badge]](https://www.linkedin.com/in/luan-ogawa/)
-[![Gmail Badge]](mailto:ogawa.luan@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-ogawa.luan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ogawa.luan@gmail.com)](mailto:ogawa.luan@gmail.com)
 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
