@@ -2,7 +2,6 @@
 
 ## Hello guys! 👋
 I am a person who loves solving problems and I found a place where I can help, which is programming.
-At the moment I am just a student, focused on learning web development.
 
  <br/> Seeking to collaborate with projects using React, CSS / HTML / JS, Typescript
  <br/> If I can help you with anything that is disturbing you, you can call!
